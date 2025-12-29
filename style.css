@@ -10,3 +10,9 @@ div{
     height: 200px;
     background-color: red;
 }
+
+.hello{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
